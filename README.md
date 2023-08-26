@@ -21,7 +21,7 @@
 </div>
   
  ### Main skills:
-![prisma](https://img.shields.io/badge/-prisma-6f9192?style=for-the-badge&logo=javascript&labelColor=6f9192&textColor=0D1117)&nbsp;
+![prisma](https://img.shields.io/badge/-prisma-6f9192?style=for-the-badge&logo=prisma&labelColor=6f9192&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-6f9192?style=for-the-badge&logo=typescript&labelColor=6f9192&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-6f9192?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=6f9192)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-6f9192?style=for-the-badge&logo=HTML5&logoColor=#FD7F20&labelColor=6f9192)&nbsp;
